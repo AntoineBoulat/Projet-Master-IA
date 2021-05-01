@@ -24,3 +24,8 @@ Enfin, un projet plus orienté mathématique théorique qui traite de la théori
 ### DDQNMario.ipynb
 
 Utilisation d'un double deep q network pour apprendre à un algorithme de jouer au 1er jeu mario.
+
+### Rappport de stage de fin d'études
+
+Rapport de stage réalisé dans l'entreprise Acuity Solutions. Thème du stage : Conception et réalisation d’algorithmes d’explication et de recherche d’optimum dans le contexte de produits hautement configurables. 
+Le sujet technique de ce stage est la recherche operationnelle dans un environnement de développement Java.
