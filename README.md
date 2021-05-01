@@ -21,6 +21,6 @@ Un exemple de projet de statistique sur la selection de variable.
 
 Enfin, un projet plus orienté mathématique théorique qui traite de la théorie algorithmique de l'information (complexité de Kolmgorov) appliqué au système d'equations de Lorenz (décrivant des systèmes physique chaotiques).
 
-### DDQN.ipynb
+### DDQNMario.ipynb
 
 Utilisation d'un double deep q network pour apprendre à un algorithme de jouer au 1er jeu mario.
